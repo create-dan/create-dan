@@ -1,16 +1,18 @@
-### Hi 👋
 
-<!--
-**create-dan/create-dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DNYANESHWAR SHINDE
 
-Here are some ideas to get you started:
+About Me:
+❗ I'm Second year IT undergraduate at Walchand College of Engineering Sangli .
+❗ Exploring various aspects of computer science .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Areas of Interest :
+🟠 Competitive programming | DSA | Problem Solving
+🟠 Full Stack Development | MERN Stack
+🟠 Computer Science Subjects
+
+
+
+
+
+
