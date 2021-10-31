@@ -1,14 +1,14 @@
 
-DNYANESHWAR SHINDE
+**DNYANESHWAR SHINDE**
 
-About Me:
+**About Me**:
 
-❗ I'm Second year IT undergraduate at Walchand College of Engineering Sangli .
+⛳ I'm Second year IT undergraduate at Walchand College of Engineering Sangli .
 
-❗ Exploring various aspects of computer science .
+⛳ Exploring various aspects of computer science .
 
 
-Areas of Interest :
+**Areas of Interest** :
 
 🟠 Competitive programming | DSA | Problem Solving
 
