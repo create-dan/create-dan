@@ -10,7 +10,7 @@
 
 **Areas of Interest** :
 
-🟠 Competitive programming | DSA | Problem Solving
+🟠 Competitive programming | DSA | Problem Solving | Flutter .
 
 🟠 Full Stack Development | MERN Stack
 
