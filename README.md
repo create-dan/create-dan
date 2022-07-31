@@ -3,7 +3,7 @@
 
 **About Me**:
 
-⛳ I'm Second year IT undergraduate at Walchand College of Engineering Sangli .
+⛳ I'm Third year IT undergraduate at Walchand College of Engineering Sangli .
 
 ⛳ Exploring various aspects of computer science .
 
