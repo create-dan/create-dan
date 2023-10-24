@@ -19,7 +19,7 @@
 My PortFolio Website : https://dnyaneshwar-shinde.vercel.app/
 
 Email: dnyaneshwars0611@gmail.com
-Contact : 9370061654
+
 
 
 
